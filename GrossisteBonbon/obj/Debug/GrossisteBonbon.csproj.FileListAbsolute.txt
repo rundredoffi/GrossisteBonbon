@@ -1,0 +1,7 @@
+Z:\BTS 2\Informatique\B2 - SLAM\GrossisteBonbon\GrossisteBonbon\bin\Debug\GrossisteBonbon.exe.config
+Z:\BTS 2\Informatique\B2 - SLAM\GrossisteBonbon\GrossisteBonbon\bin\Debug\GrossisteBonbon.exe
+Z:\BTS 2\Informatique\B2 - SLAM\GrossisteBonbon\GrossisteBonbon\bin\Debug\GrossisteBonbon.pdb
+Z:\BTS 2\Informatique\B2 - SLAM\GrossisteBonbon\GrossisteBonbon\obj\Debug\GrossisteBonbon.csproj.AssemblyReference.cache
+Z:\BTS 2\Informatique\B2 - SLAM\GrossisteBonbon\GrossisteBonbon\obj\Debug\GrossisteBonbon.csproj.CoreCompileInputs.cache
+Z:\BTS 2\Informatique\B2 - SLAM\GrossisteBonbon\GrossisteBonbon\obj\Debug\GrossisteBonbon.exe
+Z:\BTS 2\Informatique\B2 - SLAM\GrossisteBonbon\GrossisteBonbon\obj\Debug\GrossisteBonbon.pdb
